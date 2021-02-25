@@ -1,0 +1,26 @@
+.link{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background: #FFFFFF;
+    margin-top: 10px;
+    width: 150px;
+    height: 150px;
+    box-shadow: 0 0 21px rgba(92, 92, 92, 1);
+    text-decoration: none;
+    border-radius: 15px;
+}
+
+.link.activeLink{
+    box-shadow: 0 0 13px  rgba(25.1, 25.1, 255, 1);
+}
+
+.link:hover{
+    opacity: 0.75;
+}
+
+.link_item{
+    font-family: sans-serif;
+    font-size: 16px;
+    color: black;
+}

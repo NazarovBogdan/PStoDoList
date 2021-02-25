@@ -1,0 +1,6 @@
+.days_items{
+    grid-area: week;
+    box-shadow: 0 0 13px  rgba(25.1, 25.1, 255, 1);
+    margin-top: 10px;
+    border-radius: 15px;
+}

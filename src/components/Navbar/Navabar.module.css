@@ -1,0 +1,5 @@
+.navbar_nav{
+    display: flex;
+    grid-area: navbar;
+    justify-content: space-between;
+}

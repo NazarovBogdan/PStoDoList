@@ -1,0 +1,10 @@
+.header{
+    grid-area: header;
+    background-color: gray;
+}
+
+.title{
+    padding: 10px 0 10px 30px;
+    font-family: sans-serif;
+    font-size: 18px;
+}
